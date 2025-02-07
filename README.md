@@ -105,7 +105,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
-
 ### ChatGPT extensions
 
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
@@ -148,7 +147,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Synthical](https://synthical.com) - AI-powered collaborative research environment.
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
 - [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
-
+- [Scifocus](https://www.scifocus.ai/)) - An AI toolkit that empowers researchers at every stage of scientific research.
 ### Leaderboards
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
